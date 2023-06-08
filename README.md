@@ -2,7 +2,7 @@
 
 ### Hopping by to say hi!
 
-I'm someone who is passinate about **GNU/Linux/~~Systemd~~** and likes to **write code**.
+I'm someone who is passionate about **GNU/Linux/~~Systemd~~** and likes to **write code**.
 
 <br>
 
