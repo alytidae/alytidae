@@ -1,4 +1,4 @@
-<img align="left" width="100" src="imgs/frog_2.png">
+<img align="left" width="110" src="imgs/frog_2.png">
 
 ### Hopping by to say hi!
 
